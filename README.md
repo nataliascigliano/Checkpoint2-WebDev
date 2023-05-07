@@ -7,4 +7,4 @@ Esse site foi criado com o intuito de valer nota para a segunda avaliação da m
 Foi utilizado pela primeira vez, por mim, o design responsivo; de forma que o conteúdo da tela se adapte
 ao tamanho de tela que o usuário esteja usando.
 
-**Esse foi o arquivo final desenvolvido para a entrega.**
+**Este é o ARQUIVO FINAL desenvolvido para a entrega.**
